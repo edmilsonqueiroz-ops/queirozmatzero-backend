@@ -1,0 +1,1 @@
+backend/laravel-app/database/migrations/2025_10_30_000000_create_produtos_table.php
